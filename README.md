@@ -1,3 +1,3 @@
 # Davie's Burgers
 
-A webpage demo 
+Some small web development projects
