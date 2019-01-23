@@ -1,3 +1,3 @@
-# Davie's Burgers
+# WebDevelopment
 
 Some small web development projects
